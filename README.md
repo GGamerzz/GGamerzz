@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jack O'Doherty
 
-<!--
-**GGamerzz/GGamerzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate from TU Shannon: Midlands with a BSc (Hons) in Computer Engineering with Network Infrastructure. I have a strong interest in data center operations, network engineering, and enterprise infrastructure.
 
-Here are some ideas to get you started:
+## Certifications
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+- InfiniBand Essentials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Data center operations, network infrastructure, and self-hosted solutions. I run a homelab built on Proxmox and TrueNAS where I manage my own storage, photo library, and document management — always looking for an excuse to get hands-on with new technology.
+
+## Homelab Stack
+- **Hypervisor:** Proxmox
+- **Storage:** TrueNAS
+- **Photos:** Immich
+- **Documents:** Paperless-ngx
+- **Reverse Proxy:** Nginx
+
+## Connect
+- 💼 [LinkedIn](your-linkedin-url)
+- 📧 [your@email.com]
