@@ -15,7 +15,7 @@ Built a low-cost, highly scalable Proxmox cluster using consumer-grade hardware 
 
 ## Homelab Stack
 - **Hypervisor:** Proxmox
-- **Storage:** TrueNAS
+- **Storage:** TrueNAS, BackBlaze B2
 - **Networking:** TP-Link Omada SDN
 - **Containers:** Docker
 - **Home Automation:** Home Assistant
