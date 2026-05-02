@@ -10,13 +10,15 @@ Computer Engineering graduate from TU Shannon: Midlands with a BSc (Hons) in Com
 ## Interests
 Data center operations, network infrastructure, and self-hosted solutions. I run a homelab built on Proxmox and TrueNAS where I manage my own storage, photo library, and document management — always looking for an excuse to get hands-on with new technology.
 
-## Homelab Stack
 - **Hypervisor:** Proxmox
 - **Storage:** TrueNAS
+- **Networking:** TP-Link Omada SDN
+- **Containers:** Docker
+- **Home Automation:** Home Assistant
 - **Photos:** Immich
 - **Documents:** Paperless-ngx
 - **Reverse Proxy:** Nginx
 
 ## Connect
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 [your@email.com]
+- [LinkedIn](https://www.linkedin.com/in/jodoherty02)
+- [jodoherty02@gmail.com]
