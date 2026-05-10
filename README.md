@@ -7,6 +7,10 @@ Computer Engineering graduate from TU Shannon: Midlands with a BSc (Hons) in Com
 - CompTIA Security+
 - InfiniBand Essentials
 
+## Currently studying for
+- CCNA with eventual goal of CCNP
+- CKA
+
 ## Interests
 Data center operations, network infrastructure, and self-hosted solutions. I run a homelab built on Proxmox and TrueNAS where I manage my own storage, photo library, and document management, I learn and develop new skills in building and managing clusters, containers, virtual machines, networking, CI/CD and much more — always looking for an excuse to get hands-on with new technology.
 
